@@ -1,0 +1,3 @@
+2025-10-27 18:04:59 INFO  A:28 - Test started
+2025-10-27 18:04:59 WARN  A:29 - This is a warning
+2025-10-27 18:04:59 ERROR A:30 - This is an error
